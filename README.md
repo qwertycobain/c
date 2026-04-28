@@ -1,2 +1,3 @@
-# c
-exercicios de c 
+# Exercícios em C
+
+Repositório com exercícios em C para praticar lógica de programação e fundamentos da linguagem.
